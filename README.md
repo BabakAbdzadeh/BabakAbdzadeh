@@ -1,6 +1,4 @@
 
-Absolutely, here's your updated GitHub bio:
-
 - 👋 Hi, I’m Babak, a STEM master's student, an electrical engineer, and a self-taught programmer.
 - 👀 I’m passionate about systems thinking, problem-solving, and the development of solutions for unmanned systems and vehicles. My interests span from low-level hardware to high-level software, including Web Development, Algorithms, Embedded Systems, and Digital Circuit Design.
 - 🌱 I’m currently honing my skills in Algorithmic thinking, JavaScript, and Web Development, with a particular focus on the MERN stack. I also enjoy coding for microcontrollers, optimizing code, and constantly improving my skills.
